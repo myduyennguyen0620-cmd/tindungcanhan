@@ -2,7 +2,7 @@ import streamlit as st
 
 def main():
     st.set_page_config(page_title="Hệ thống Xét Duyệt Vay", layout="centered")
-    st.title("🏦 Công Cụ Thẩm Định Vay Cá Nhân (Cập nhật Tuổi)")
+    st.title("🏦 Công Cụ Thẩm Định Vay Cá Nhân")
     st.markdown("---")
 
     col1, col2 = st.columns(2)
